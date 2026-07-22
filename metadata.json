@@ -1,0 +1,6 @@
+{
+  "name": "Ecommerce Admin Dashboard",
+  "description": "A premium, high-performance, and responsive single-page administrative dashboard for e-commerce store logistics, analytics, and inventories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
